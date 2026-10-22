@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#173b3f"/><stop offset="1" stop-color="#1d5557"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#dfc788"/><stop offset="1" stop-color="#b89046"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="760" fill="#f7f8f6"/>
+<rect x="24" y="24" width="1152" height="712" rx="28" fill="url(#bg)"/>
+<circle cx="1010" cy="160" r="170" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="2"/>
+<circle cx="1010" cy="160" r="125" fill="none" stroke="#dfc788" stroke-opacity=".55" stroke-width="2"/>
+<path d="M760 590 L760 370 L830 330 L900 370 L900 590 Z" fill="#ffffff" fill-opacity=".09" stroke="#dfc788" stroke-opacity=".7" stroke-width="2"/>
+<path d="M915 590 L915 285 L985 240 L1055 285 L1055 590 Z" fill="#ffffff" fill-opacity=".12" stroke="#dfc788" stroke-opacity=".7" stroke-width="2"/>
+<path d="M1070 590 L1070 400 L1110 370 L1150 400 L1150 590 Z" fill="#ffffff" fill-opacity=".08" stroke="#dfc788" stroke-opacity=".7" stroke-width="2"/>
+<g fill="#dfc788" opacity=".8">
+<rect x="786" y="397" width="16" height="24" rx="2"/><rect x="820" y="397" width="16" height="24" rx="2"/><rect x="854" y="397" width="16" height="24" rx="2"/>
+<rect x="786" y="444" width="16" height="24" rx="2"/><rect x="820" y="444" width="16" height="24" rx="2"/><rect x="854" y="444" width="16" height="24" rx="2"/>
+<rect x="940" y="305" width="16" height="24" rx="2"/><rect x="974" y="305" width="16" height="24" rx="2"/><rect x="1008" y="305" width="16" height="24" rx="2"/>
+<rect x="940" y="352" width="16" height="24" rx="2"/><rect x="974" y="352" width="16" height="24" rx="2"/><rect x="1008" y="352" width="16" height="24" rx="2"/>
+</g>
+<text x="90" y="125" font-family="Arial, sans-serif" font-size="22" letter-spacing="7" fill="#dfc788" font-weight="700">DATA ANALYTICS · POWER BI</text>
+<text x="90" y="240" font-family="Georgia, serif" font-size="68" fill="#ffffff" font-weight="700">Egypt Real Estate</text>
+<text x="90" y="320" font-family="Georgia, serif" font-size="68" fill="#dfc788" font-style="italic">Analytics Dashboard</text>
+<path d="M92 370 H590" stroke="#dfc788" stroke-width="3"/>
+<text x="92" y="425" font-family="Arial, sans-serif" font-size="25" fill="#e6eeeb">Sales · Property Portfolio · Market Analysis</text>
+<text x="92" y="465" font-family="Arial, sans-serif" font-size="25" fill="#e6eeeb">Agents · Customers · Key Insights</text>
+<text x="92" y="665" font-family="Arial, sans-serif" font-size="19" letter-spacing="3" fill="#ffffff" fill-opacity=".8">BASMALA AHMED MAHMOUD</text>
+</svg>
