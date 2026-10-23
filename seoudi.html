@@ -17,19 +17,30 @@
 
 <body>
 
-<header>
-
+<header class="project-header">
     <a href="index.html" class="brand">
-        ← Basmala Ahmed
+        <span aria-hidden="true">←</span> Basmala Ahmed
     </a>
 
-    <nav>
+    <nav id="project-navigation" aria-label="Project navigation">
         <a href="index.html#projects">All Projects</a>
         <a href="amazon.html">← Amazon</a>
         <a href="country.html">Global Insights →</a>
     </nav>
 
+    <button
+        class="project-menu"
+        type="button"
+        aria-label="Open navigation menu"
+        aria-controls="project-navigation"
+        aria-expanded="false"
+    >
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
 </header>
+
 
 
 <main>
